@@ -1,0 +1,15 @@
+body {
+  background-color: #031927;
+  color: #C8E0F4;
+  font-family: 'Noto Serif JP';
+}
+
+h1 {
+  color: #BA1200;
+  font-family: 'Raleway', sans-serif;
+}
+
+li {
+  list-style-type: none;
+  text-transform: capitalize;
+}
